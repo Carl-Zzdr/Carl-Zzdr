@@ -3,7 +3,7 @@
  I'm Carl  
  Gen Z  
  a college student currently studying computer science  
- ---although it's not my major at school. ╯︿╰
+ ---although it's not my major at school. ╯︿╰  
  But it doesn't matter, I still have the internet and LLMs👍
 
 
