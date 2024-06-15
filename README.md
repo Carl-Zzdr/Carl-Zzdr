@@ -6,7 +6,7 @@
 
 ## Skills I Am Learning
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,lua)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,lua,js)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
