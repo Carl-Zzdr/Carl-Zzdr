@@ -3,7 +3,10 @@
  I'm Carl  
  a college student currently studying computer science  
  ---although it's not my major at school. ╯︿╰  
- But it doesn't matter, I still have the internet and LLMs👍
+ But it doesn't matter, I still have the internet and LLMs👍  
+ 
+ And，I don't have any repositories worth learning from,  
+ so I guess you want to play social engineering?
 
 
 ## Skills I Am Learning
