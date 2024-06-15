@@ -1,6 +1,8 @@
 # Welcome to my profile!
 
- I'm Carl, a student currently studying computer science  
+ I'm Carl,  
+ Gen Z,  
+ a student currently studying computer science  
  ---although it's not my major at school. ╯︿╰
 
 
