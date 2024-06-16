@@ -18,7 +18,7 @@
 
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim,kali,raspberrypi.blender)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim,kali,raspberrypi,blender)
 <!--
 **Carl-Zzdr/Carl-Zzdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
