@@ -5,8 +5,6 @@
  ---although it's not my major at school. ╯︿╰  
  However, I don't need to worry, as the Internet and LLMs will help me 👍  
  
- And，I don't have any repositories worth learning from,  
- so I guess you want to play social engineering?
 
 
 ## Skills I Am Learning
