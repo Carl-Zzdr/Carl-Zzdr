@@ -20,7 +20,7 @@
 
 
 #### Casual hobbies
-![Hobbies](https://skillicons.dev/icons?i=git,kali,raspberrypi,blender)
+![Hobbies](https://skillicons.dev/icons?i=kali,raspberrypi,blender)
 
 
 <!--
