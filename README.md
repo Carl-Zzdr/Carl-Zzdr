@@ -16,7 +16,7 @@
 
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim)
+![Others](https://skillicons.dev/icons?i=git,github,gcp,markdown,vscode,pycharm,vim)
 
 
 #### Casual hobbies
