@@ -18,7 +18,7 @@
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim)
 
 ### Casual hobbies
-![Hobbies](https://skillicons.dev/icons?i=js.html.csss.kali,raspberrypi,arduino,blender)
+![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender)
 
 
 <!--
