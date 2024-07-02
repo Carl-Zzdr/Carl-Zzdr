@@ -17,7 +17,7 @@
 ### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim)
 
-### Casual hobbies
+### Other Interests and Hobbies
 ![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender)
 
 
