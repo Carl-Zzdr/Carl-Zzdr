@@ -8,19 +8,17 @@
 
 
 ## Skills I Am Learning
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,lua,js)
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,lua)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
+### Machine Learning Technologies
+![Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,gcp)
 
+### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,pycharm,vim)
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,gcp,markdown,vscode,pycharm,vim)
-
-
-#### Casual hobbies
-![Hobbies](https://skillicons.dev/icons?i=kali,raspberrypi,arduino,blender)
+### Casual hobbies
+![Hobbies](https://skillicons.dev/icons?i=js.html.csss.kali,raspberrypi,arduino,blender)
 
 
 <!--
