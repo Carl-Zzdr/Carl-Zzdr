@@ -20,6 +20,9 @@
 ### Additional Interests
 ![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender)
 
+## GitHub Stats
+![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl-zzdr&show_icons=true&theme=cobalt)
+
 
 <!--
 **Carl-Zzdr/Carl-Zzdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
