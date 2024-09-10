@@ -9,16 +9,16 @@
 
 ## Skills I Am Learning
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,go,java,lua)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,go,java,lua,figma&theme=light)
 
 ### Machine Learning Technologies
-![Machine Learning](https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,sklearn)
+![Machine Learning](https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,sklearn,figma&theme=light)
 
 ### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=ubuntu,github,markdown,vscode,pycharm,vim)
+![Others](https://skillicons.dev/icons?i=ubuntu,github,markdown,vscode,pycharm,vim,figma&theme=light)
 
 ### Additional Interests
-![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender)
+![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender,figma&theme=light)
 
 
 
