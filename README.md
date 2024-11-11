@@ -9,7 +9,7 @@
 
 ## Skills I Am Learning
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,go,java,lua)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,rust,lua,go,java)
 
 ### Machine Learning Technologies
 ![Machine Learning](https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,sklearn)
