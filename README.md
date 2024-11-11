@@ -9,7 +9,7 @@
 
 ## Skills I Am Learning
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,rust,lua,go,java)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,rust,lua)
 
 ### Machine Learning Technologies
 ![Machine Learning](https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,sklearn)
@@ -18,7 +18,7 @@
 ![Others](https://skillicons.dev/icons?i=ubuntu,github,markdown,vscode,pycharm,vim)
 
 ### Additional Interests
-![Hobbies](https://skillicons.dev/icons?i=js,html,css,kali,raspberrypi,arduino,blender)
+![Hobbies](https://skillicons.dev/icons?i=go,java,js,html,css,kali,raspberrypi,arduino,blender)
 
 
 
