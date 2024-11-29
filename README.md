@@ -21,7 +21,7 @@
 
 Besides the technologies I specifically study for my future learning and career development,  
 I am also interested in many other areas,  
-such as cybersecurity, Android development, embedded systems development, and creating mods for games.  
+such as cybersecurity, some fun mobile and mechanical electronics projects, and creating mods for games.
 
 ![Hobbies](https://skillicons.dev/icons?i=go,java,kotlin,js,html,css,kali,raspberrypi,arduino,blender)
 
