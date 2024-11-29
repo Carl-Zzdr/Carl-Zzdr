@@ -17,10 +17,12 @@
 ### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=ubuntu,docker,github,markdown,vscode,pycharm,vim)
   
-### Additional Interests
+### Additional Interests  
+
 Besides the technologies I specifically study for my future learning and career development,  
 I am also interested in many other areas,  
-such as Android development, embedded systems development, and creating mods for games.
+such as cybersecurity, Android development, embedded systems development, and creating mods for games.  
+
 ![Hobbies](https://skillicons.dev/icons?i=go,java,kotlin,js,html,css,kali,raspberrypi,arduino,blender)
 
 
