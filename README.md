@@ -20,7 +20,7 @@
 ### Additional Interests  
 
 Besides the technologies I specifically study for my future learning and career development,  
-I am also interested in many other areas,  
+I am also interested in many other areas, which I treat as hobbies to balance my study life，  
 such as cybersecurity, some fun mobile and mechanical electronics projects, and creating mods for games.
 
 ![Hobbies](https://skillicons.dev/icons?i=go,java,kotlin,js,html,css,kali,raspberrypi,arduino,blender)
