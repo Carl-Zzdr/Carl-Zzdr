@@ -16,7 +16,7 @@
 
 ### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=ubuntu,docker,github,markdown,vscode,pycharm,vim)
-  
+<!---
 ### Additional Interests  
 
 Besides the technologies I specifically study for my future learning and career development,  
