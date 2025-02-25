@@ -4,8 +4,8 @@
  a college student currently studying computer science  
  ---although it's not my major at school. ╯︿╰  
  However, I don't need to worry, as the Internet and LLMs will help me 👍  
- 
-
+    
+ I'm particularly interested in exploring the intersection of large language models and gaming.
 
 ## Skills I Am Learning
 ### Programming Languages
