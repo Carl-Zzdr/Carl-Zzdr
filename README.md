@@ -15,7 +15,7 @@
 ![Machine Learning](https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,sklearn)
 
 ### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=ubuntu,docker,github,markdown,vscode,pycharm,vim)
+![Others](https://skillicons.dev/icons?i=ros,raspberrypi,ubuntu,docker,github,markdown,vscode,pycharm,vim)
 <!---
 ### Additional Interests  
 
