@@ -5,7 +5,9 @@
  ---although it's not my major at school. ╯︿╰  
  However, I don't need to worry, as the Internet and LLMs will help me 👍  
     
- I'm particularly interested in exploring the intersection of large language models and gaming.
+ I am dedicated to exploring the practical impact and applications of AI in daily life.  
+ I believe that even if today's LLMs aren't the ultimate driver, history a thousand years from now will prove that AI will redefine human life and alter our historical trajectory.  
+ I want to play my part in this journey.
 
 ## Skills I Am Learning
 ### Programming Languages
@@ -16,6 +18,7 @@
 
 ### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=ros,raspberrypi,ubuntu,docker,github,markdown,vscode,pycharm,vim)
+
 <!---
 ### Additional Interests  
 
